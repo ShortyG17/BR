@@ -1,0 +1,22 @@
+body {
+    background-color: #36454F;
+}
+.jumbotron{
+    background-color: black;
+    color:yellow;
+    text-align: center;
+    width:100%;
+}
+a {
+    color:yellow;
+}
+img{
+    width:82%;
+    
+}
+li {
+    color:yellow;
+}
+p{
+    color:yellow;
+}
